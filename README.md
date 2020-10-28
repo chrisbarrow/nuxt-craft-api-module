@@ -16,5 +16,5 @@ Assumes use of [Element API](https://github.com/craftcms/element-api), just pass
 **use**
 
     async fetch(){
-      this.entry = this.$craftApi.get(slug)
+      this.entry = await this.$craftApi.get(slug)
     }
