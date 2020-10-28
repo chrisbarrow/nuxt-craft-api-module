@@ -1,0 +1,7 @@
+{
+  "name": "@archivestudio/craft-api",
+  "version": "1.0.0",
+  "main": "module.js",
+  "author": "archive.studio",
+  "license": "MIT"
+}
