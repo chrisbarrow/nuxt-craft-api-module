@@ -1,6 +1,6 @@
 # nuxt-craft-api-module
 
-Requires @nuxt/http
+:warning: Requires @nuxt/http
 
 Assumes use of [Element API](https://github.com/craftcms/element-api), just pass in the slug. Handles preview mode using craft preview tokens for static Nuxt builds
 
