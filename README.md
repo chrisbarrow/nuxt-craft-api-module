@@ -2,7 +2,7 @@
 
 Requires @nuxt/http
 
-Assumes use of element-api, just pass in the slug. Handles preview mode using craft preview tokens for static Nuxt builds
+Assumes use of [Element API](https://github.com/craftcms/element-api), just pass in the slug. Handles preview mode using craft preview tokens for static Nuxt builds
 
 **nuxt.config.js**
 
