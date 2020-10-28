@@ -6,7 +6,7 @@ Assumes use of [Element API](https://github.com/craftcms/element-api), just pass
 
 **install**
 
-    yarn add --dev @nuxt/http https://github.com/chrisbarrow/nuxt-craft-api-module
+    yarn add https://github.com/chrisbarrow/nuxt-craft-api-module
 
 **nuxt.config.js**
 
